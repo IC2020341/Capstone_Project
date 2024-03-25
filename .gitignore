@@ -1,2 +1,8 @@
 
 /.tmp.driveupload
+Datasets/genome-scores.csv
+Datasets/genome-tags.csv
+Datasets/links.csv
+Datasets/movies.csv
+Datasets/ratings.csv
+Datasets/tags.csv
