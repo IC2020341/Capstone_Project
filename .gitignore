@@ -15,3 +15,4 @@ models/model_test_200000.sav
 models/model_test_250000.sav
 models/model_test_300000.sav
 results/final_results_train.txt
+results/final_results_test.txt
