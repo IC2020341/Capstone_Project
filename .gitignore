@@ -6,3 +6,12 @@ Datasets/links.csv
 Datasets/movies.csv
 Datasets/ratings.csv
 Datasets/tags.csv
+Datasets/final-estimated-rating.csv
+Datasets/ratings_final.csv
+models/final_model.sav
+models/model_test_100000.sav
+models/model_test_150000.sav
+models/model_test_200000.sav
+models/model_test_250000.sav
+models/model_test_300000.sav
+results/final_results_train.txt
