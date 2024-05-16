@@ -1,3 +1,15 @@
+This folder should contain the following datasets:
+
+final-estimated-rating
+movies
+ratings
+ratings-final
+
+If they are not in the folder (for lack of space in cct moodle assistant), you can run the code and obtain them.
+
+Below, the original datasets from MovieLens 25M readME:
+
+
 Summary
 =======
 
